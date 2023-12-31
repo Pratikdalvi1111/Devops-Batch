@@ -3,3 +3,6 @@ git branch
 git clone
 git add
 git remote -v
+git push
+git fetch
+git pull
